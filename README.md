@@ -48,6 +48,8 @@ O desafio consiste em desenvolver um site de filmes utilizando o framework Larav
 1. Paginação na Listagem de Filmes:
     - Adicionar a funcionalidade de paginação na página de listagem de filmes para melhorar a experiência do usuário em listas grandes.
 2. Após cadastrar um novo filme, redirecionar o usuário para a página de visualização desse filme.
+3. Mensagem de validação no formulário
+    - Apresentar as mensagens de validação dos campos do formulário
 
 ## Pré-requisitos
 
